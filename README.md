@@ -12,6 +12,6 @@ Ubuntu user=> ``` sudo add-apt-repository ppa:regolith-linux/unstable```<br />
                   ``` sudo apt-get upgrade```<br />
                    ```sudo apt install build-essential git cmake cmake-data pkg-config libcairo2-dev libxcb1-dev libxcb-util0-dev libxcb-randr0-dev libxcb-                      composite0-dev python3-xcbgen xcb-proto libxcb-image0-dev libxcb-ewmh-dev libxcb-icccm4-dev i3-gaps dunst dmenu```<br />
 
-```sh
+```
 npm install copy-text-to-clipboard
 ```
