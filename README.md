@@ -2,10 +2,10 @@
 <br />
 ![rice](https://user-images.githubusercontent.com/109595809/228884088-c60b07d1-4114-467a-b173-8066846ede6d.png)<br />
 
-Time Cli: tty-clock <br/ >
-Terminal: kitty <br/ >
-Music Player: moded Spotify with [spicetify](https://spicetify.app/) <br/ >
-Sound Visualizer: cava <br/ >
+Time Cli: tty-clock <br />
+Terminal: kitty <br />
+Music Player: moded Spotify with [spicetify](https://spicetify.app/) <br />
+Sound Visualizer: cava <br />
 # Installation
 What you need before installation my gruvbox rice <br />
 >Arch user 
