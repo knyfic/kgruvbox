@@ -2,3 +2,4 @@
 
 # Installation
 What you need before installation my gruvbox rice
+>Arch user => ```yay -S i3-gaps dunst dmenu ttf-font-awesome polybar light``` 
