@@ -46,6 +46,5 @@ git clone https://github.com/knyfic/kgruvbox
  
  ![dotssss](https://user-images.githubusercontent.com/109595809/228893196-1222c2a7-9620-4842-8db2-592164f5bb8e.png) <br />
  
- <p align="center">
-  <img src=" ![185805806-4b71d128-1968-4e72-a365-e6f12a7cbc82](https://user-images.githubusercontent.com/109595809/228897175-2102dbd7-a596-4106-843c-d08ffd467fa8.png)" />
-</p>
+
+![185805806-4b71d128-1968-4e72-a365-e6f12a7cbc82](https://user-images.githubusercontent.com/109595809/228897461-da54c3dc-fc60-4f4b-b5d3-72d56da9692e.png)
