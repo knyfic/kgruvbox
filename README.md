@@ -6,7 +6,7 @@
 **Terminal:** [kitty](https://github.com/kovidgoyal/kitty) <br />
 **Music Player:** moded Spotify with [spicetify](https://spicetify.app/) <br />
 **Sound Visualizer:** [cava](https://github.com/karlstav/cava) <br />
-**Theme:**[here](s) <br />
+**Theme:**[here](https://github.com/knyfic/kgruvbox/blob/main/(GTKtheme)Gruvbox-Dark-B.tar.gz) <br />
 **Icon theme:**[here](https://github.com/SylEleuth/gruvbox-plus-icon-pack) <br />
 # Installation
 What you need before installation my gruvbox rice <br />
