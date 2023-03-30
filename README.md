@@ -8,6 +8,7 @@
 **Sound Visualizer:** [cava](https://github.com/karlstav/cava) <br />
 **Theme:**[here](https://github.com/knyfic/kgruvbox/blob/main/(GTKtheme)Gruvbox-Dark-B.tar.gz) <br />
 **Icon theme:**[here](https://github.com/SylEleuth/gruvbox-plus-icon-pack) <br />
+**Wallpaper:**[here](https://wallhaven.cc/w/eydedl) <br />
 # Installation
 What you need before installation my gruvbox rice <br />
 >Arch user 
