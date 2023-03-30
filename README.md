@@ -3,10 +3,10 @@
 # Installation
 What you need before installation my gruvbox rice <br />
 >Arch user 
-```
-yay -S i3-gaps dunst dmenu ttf-font-awesome polybar light 
-```
+>```
+>yay -S i3-gaps dunst dmenu ttf-font-awesome polybar light 
+>```
 >Ubuntu user
 >```
->udo add-apt-repository ppa:regolith-linux/unstable
+>sudo add-apt-repository ppa:regolith-linux/unstable
 >```
