@@ -19,3 +19,4 @@ What you need before installation my gruvbox rice <br />
  > ```
  > sudo apt install build-essential git cmake cmake-data pkg-config libcairo2-dev libxcb1-dev libxcb-util0-dev libxcb-randr0-dev libxcb-composite0-dev python3-xcbgen xcb-proto libxcb-image0-dev libxcb-ewmh-dev libxcb-icccm4-dev dmenu i3-gaps dunst fonts-font-awesome light
  > ```
+ > `[Install lates polybar version in this repo](https://github.com/polybar/polybar/releases)`
