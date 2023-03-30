@@ -7,4 +7,6 @@ What you need before installation my gruvbox rice <br />
 yay -S i3-gaps dunst dmenu ttf-font-awesome polybar light 
 ```
 >Ubuntu user
->
+>```
+>udo add-apt-repository ppa:regolith-linux/unstable
+>```
