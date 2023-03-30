@@ -10,3 +10,8 @@ What you need before installation my gruvbox rice <br />
 >```
 >sudo add-apt-repository ppa:regolith-linux/unstable
 >```
+ > ```
+ > sudo apt update
+ > ```
+ > sudo apt upgrade
+ > ```
