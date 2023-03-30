@@ -21,10 +21,9 @@ What you need before installation my gruvbox rice <br />
  > ```
  > [Install lates polybar version in this repo](https://github.com/polybar/polybar/releases)
  > ```
- > cd polybar/
- >mkdir build
- >cd build
- >cmake ..
- >make -j$(nproc)
- >sudo make install
- >```
+ > `cd polybar/`
+ >`mkdir build`
+ >`cd build`
+ >`cmake ..`
+ >`make -j$(nproc)`
+ >`sudo make install`
