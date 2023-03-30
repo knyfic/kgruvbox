@@ -37,7 +37,7 @@ What you need before installation my gruvbox rice <br />
  >`(2)$ mkdir build`
  >`(3)$ cd build`
  >`(4)$ cmake ..`
- >`(5)$ make -j$(nproc)`
+ >`(5)$ make -j$(nproc)` <br />
  >`(6)$ sudo make install` <br />
 If you get an error, make sure you have installed the dependencies.
 ```
