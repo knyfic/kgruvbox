@@ -1,4 +1,4 @@
- ![dotfiles](https://user-images.githubusercontent.com/109595809/228885101-83a92a02-8442-4561-b64e-d6bb85b81843.png)
+![riced](https://user-images.githubusercontent.com/109595809/229200857-a3fd4e89-54bc-4c3e-9ca0-4f1d3e2a80a5.png)
 <br />
 ![rice](https://user-images.githubusercontent.com/109595809/228884088-c60b07d1-4114-467a-b173-8066846ede6d.png)<br />
 
