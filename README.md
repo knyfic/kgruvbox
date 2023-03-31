@@ -1,6 +1,6 @@
-![riced](https://user-images.githubusercontent.com/109595809/229200857-a3fd4e89-54bc-4c3e-9ca0-4f1d3e2a80a5.png)
+![dotfiles](https://user-images.githubusercontent.com/109595809/229201033-890bdcc8-f072-48ba-9d0a-e07069b378f1.png)
 <br />
-![rice](https://user-images.githubusercontent.com/109595809/228884088-c60b07d1-4114-467a-b173-8066846ede6d.png)<br />
+![riced](https://user-images.githubusercontent.com/109595809/229200857-a3fd4e89-54bc-4c3e-9ca0-4f1d3e2a80a5.png)<br />
 
 **Time Cli:** [tty-clock](https://github.com/xorg62/tty-clock) <br />
 **Terminal:** [kitty](https://github.com/kovidgoyal/kitty) <br />
