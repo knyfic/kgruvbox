@@ -40,7 +40,8 @@ What you need before installation my gruvbox rice <br />
  >`(5)$ make -j$(nproc)` <br />
  >`(6)$ sudo make install` <br />
 If you get an error, make sure you have installed the dependencies. <br />
->clone my github repo 
+
+>clone my github repo <br />
 ```
 git clone https://github.com/knyfic/kgruvbox
 ```
