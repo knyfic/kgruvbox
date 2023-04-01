@@ -57,6 +57,6 @@ If you get an error, make sure you have installed the dependencies.
  
 
 <p align="center">
- <img width="460" height="300" src="https://imgur.com/eYnPz4a">
+ <img width="460" height="300" src="https://i.imgur.com/eYnPz4a.png">
 </p>
 
