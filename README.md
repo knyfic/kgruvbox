@@ -1,6 +1,7 @@
 ![dotfiles](https://user-images.githubusercontent.com/109595809/229201033-890bdcc8-f072-48ba-9d0a-e07069b378f1.png)
 <br />
-![riced](https://user-images.githubusercontent.com/109595809/229200857-a3fd4e89-54bc-4c3e-9ca0-4f1d3e2a80a5.png)
+![rice05](https://user-images.githubusercontent.com/109595809/229289809-f6a63db0-ff0b-438f-98b5-5bfb76791545.png)
+
 <!-- Horizontal Lines -->
 <hr style="border-top: 3px dotted #998143">
 
@@ -53,7 +54,8 @@ If you get an error, make sure you have installed the dependencies.
 >```
  <br />
  
- ![dotssss](https://user-images.githubusercontent.com/109595809/228893196-1222c2a7-9620-4842-8db2-592164f5bb8e.png) <br />
+![rice05b](https://user-images.githubusercontent.com/109595809/229289826-7ddd89ae-d8c0-4e6b-ab10-57523e551ef8.png)
+ <br />
  
 
 <p align="center">
