@@ -57,6 +57,6 @@ If you get an error, make sure you have installed the dependencies.
  
 
 <p align="center">
-  ![catcute](https://user-images.githubusercontent.com/109595809/229286929-9f77da87-8311-4ea0-90d0-753c2f47a2d7.png)
+ <img width="460" height="300" src="https://imgur.com/eYnPz4a/460/300">
 </p>
 
