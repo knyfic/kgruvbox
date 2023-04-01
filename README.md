@@ -16,7 +16,6 @@ What you need before installation my gruvbox rice <br />
 >yay -S i3-gaps dunst dmenu ttf-font-awesome polybar light rc ranger i3lock-fancy-git zathura rofi ttf-jetbrains-mono 
 >```
 
-<br />
 <!-- Horizontal Lines -->
 <hr style="border-top: 3px dotted #998143">
 
@@ -41,7 +40,10 @@ What you need before installation my gruvbox rice <br />
  >`(4)$ cmake ..`
  >`(5)$ make -j$(nproc)` <br />
  >`(6)$ sudo make install` <br />
-If you get an error, make sure you have installed the dependencies. <br />
+If you get an error, make sure you have installed the dependencies.
+
+<!-- Horizontal Lines -->
+<hr style="border-top: 3px dotted #998143">
 
 >clone my github repo <br />
 >```
