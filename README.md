@@ -17,6 +17,8 @@ What you need before installation my gruvbox rice <br />
 >```
 
 <br />
+<!-- Horizontal Lines -->
+<hr style="border-top: 3px dotted #998143">
 
 >Ubuntu user
 >```
