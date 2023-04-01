@@ -56,4 +56,7 @@ If you get an error, make sure you have installed the dependencies.
  ![dotssss](https://user-images.githubusercontent.com/109595809/228893196-1222c2a7-9620-4842-8db2-592164f5bb8e.png) <br />
  
 
-![185805806-4b71d128-1968-4e72-a365-e6f12a7cbc82](https://user-images.githubusercontent.com/109595809/228897461-da54c3dc-fc60-4f4b-b5d3-72d56da9692e.png)
+<p align="center">
+  <![catcute](https://user-images.githubusercontent.com/109595809/229286929-9f77da87-8311-4ea0-90d0-753c2f47a2d7.png)>
+</p>
+
