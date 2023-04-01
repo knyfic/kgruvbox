@@ -42,9 +42,9 @@ What you need before installation my gruvbox rice <br />
 If you get an error, make sure you have installed the dependencies. <br />
 
 >clone my github repo <br />
-```
-git clone https://github.com/knyfic/kgruvbox
-```
+>```
+>git clone https://github.com/knyfic/kgruvbox
+>```
  <br />
  
  ![dotssss](https://user-images.githubusercontent.com/109595809/228893196-1222c2a7-9620-4842-8db2-592164f5bb8e.png) <br />
