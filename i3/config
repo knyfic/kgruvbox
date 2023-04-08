@@ -205,7 +205,7 @@ bindsym $mod+Shift+Tab workspace prev
 
 
 
-exec_always --no-startup-id bash ~/.config/polybar/launch.sh --forest
+exec_always --no-startup-id bash ~/.config/polybar/forest/launch.sh --forest
 exec_always --no-startup-id compton --vsync opengl-swc --backend glx
 bindsym $mod+n exec thunar
 bindsym $mod+shift+n exec kitty -e ranger
