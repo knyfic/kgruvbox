@@ -9,7 +9,7 @@
 **Terminal:** [kitty](https://github.com/kovidgoyal/kitty) <br />
 **Music Player:** moded Spotify with [spicetify](https://spicetify.app/) <br />
 **Sound Visualizer:** [cava](https://github.com/karlstav/cava) <br />
-**Theme:**[here](https://github.com/knyfic/kgruvbox/blob/main/(GTKtheme)Gruvbox-Dark-B.tar.gz) <br />
+**Theme:**[here](https://github.com/KNY360/kgruvbox/blob/main/(GTKtheme)Gruvbox-Dark-B.tar.gz) <br />
 **Icon theme:**[here](https://github.com/SylEleuth/gruvbox-plus-icon-pack) <br />
 **Wallpaper:**[here](https://wallhaven.cc/w/eydedl) <br />
 # Installation
@@ -50,7 +50,7 @@ If you get an error, make sure you have installed the dependencies.
 
 >clone my github repo <br />
 >```
->git clone https://github.com/knyfic/kgruvbox
+>git clone https://github.com/KNY360/kgruvbox
 >```
  <br />
  
